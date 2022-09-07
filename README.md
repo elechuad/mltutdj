@@ -4,4 +4,5 @@
 # ML Tutorial Python Codes
 # Tutorial 2 - Q1, Q2, Q3, Q5 - Uploaded 25 Aug 22
 # Tutorial 3 - Q4, Q5 - Updated 01 Sep 22
-# Tutorial 4 PREP - Uploaded 01 Sep 22
+# Tutorial 4 Prep - Uploaded 01 Sep 22
+# Tutorial 4 - Uploaded 06 Sep 22
