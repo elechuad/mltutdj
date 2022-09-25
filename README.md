@@ -6,3 +6,5 @@
 # Tutorial 3 - Q4, Q5 - Updated 01 Sep 22
 # Tutorial 4 Prep - Uploaded 01 Sep 22
 # Tutorial 4 - Added Q6 - Updated 09 Sep 22
+# Tutorial 5 - Updated 13 Sep 22
+# Tutorial 6 - Updated 25 Sep 22
